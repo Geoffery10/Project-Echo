@@ -1,6 +1,7 @@
 <p align="center">
 <img src="https://github.com/Geoffery10/Project-Echo/blob/main/assets/art/banner.gif?raw=true" />
 </p>
+
 # Project Echo
 Welcome to Project Echo, a choose your own adventure game set in a science fiction world. This game is built using Unity and is currently in development.
 
