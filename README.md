@@ -18,7 +18,11 @@ Coming soon
 As this game is currently in development, there are no contribution guidelines at this time. However, if you are interested in contributing to the project, please contact the developer for more information.
 
 ## Authors
+### Currently Incomplete
 - **Geoffery Powell** - Project Manager, Developer, Artist - [Geoffery10](https://github.com/Geoffery10)
+- **Kyle Sorenson** - Writer
+- **Isaac Swiney** - Writer
+- **Connor Davey** - Developer, Artist - [connordavey33](https://github.com/connordavey33)
 
 ## License
 This project is private and currently not licensed for use or distribution.
