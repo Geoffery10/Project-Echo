@@ -16,7 +16,9 @@ These instructions will get you a copy of the project up and running on your loc
 Coming soon
 
 ## Built With
-[Unity](https://unity.com/) - Game engine
+- [Unity](https://unity.com/) - Game engine
+- [Stable Diffusion]
+- [ChatGPT](https://chat.openai.com/)
 
 ## Contributing
 As this game is currently in development, there are no formal contribution guidelines at this time. However, if you are interested in contributing to the project, please contact the developer for more information.
