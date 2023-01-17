@@ -19,7 +19,9 @@ Coming soon
 [Unity](https://unity.com/) - Game engine
 
 ## Contributing
-As this game is currently in development, there are no contribution guidelines at this time. However, if you are interested in contributing to the project, please contact the developer for more information.
+As this game is currently in development, there are no formal contribution guidelines at this time. However, if you are interested in contributing to the project, please contact the developer for more information.
+
+Additionally, you can also contribute AI designs on our Discord server. Join the server and share your ideas with the team and help shape the future of the game. (Note: Server is currently invite only)
 
 ## Authors
 ### Currently Incomplete
