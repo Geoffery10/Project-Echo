@@ -17,7 +17,7 @@ Coming soon
 
 ## Built With
 - [Unity](https://unity.com/) - Game engine
-- [Stable Diffusion]
+- Stable Diffusion
 - [ChatGPT](https://chat.openai.com/)
 
 ## Contributing
