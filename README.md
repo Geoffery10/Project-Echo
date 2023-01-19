@@ -28,9 +28,10 @@ Additionally, you can also contribute AI designs on our Discord server. Join the
 ## Authors
 ### Currently Incomplete
 - **Geoffery Powell** - Project Manager, Developer, Artist - [Geoffery10](https://github.com/Geoffery10)
-- **Kyle Sorenson** - Writer
+- **Kyle Sorenson** - Writer - [sorensonk](https://github.com/sorensonk)
 - **Isaac Swiney** - Writer
 - **Connor Davey** - Developer, Artist - [connordavey33](https://github.com/connordavey33)
+- **Logan Matthews** - Artist - [KuruKuru](https://twitter.com/TheyCallMeKuru)
 
 ## License
 This project is private and currently not licensed for use or distribution.
